@@ -7,7 +7,9 @@ pymupdfでPDFを分解するサンプルコード
 
 ## 依存ライブラリ
 
+mojimoji==0.0.12
 PyMuPDF==1.23.7
+tqdm==4.65.0
 
 ## 実行方法
 
